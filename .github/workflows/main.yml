@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aditiya Surya Putra - Freelance Pernikahan</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#tentang">Tentang</a></li>
+                <li><a href="#portofolio">Portofolio</a></li>
+                <li><a href="#kontak">Kontak</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="hero">
+        <h1>Selamat Datang di Portofolio Aditiya Surya Putra</h1>
+        <p>Seorang Freelance Pernikahan yang Berpengalaman dan Berdedikasi</p>
+        <button><a href="#kontak">Hubungi Saya</a></button>
+    </section>
+    <section id="tentang">
+        <h1>Tentang Aditiya Surya Putra</h1>
+        <p>Saya adalah seorang freelance pernikahan yang berpengalaman dan berdedikasi untuk menangkap momen-momen spesial dalam hidup Anda.</p>
+        <p>Saya memiliki pengalaman lebih dari 5 tahun dalam bidang fotografi pernikahan dan telah melayani banyak pasangan yang bahagia.</p>
+    </section>
+    <section id="portofolio">
+        <h1>Portofolio</h1>
+        <div class="gallery">
+            <img src="DSCF3293.jpg" alt="Foto 1">
+            <img src="DSC_0170.jpg" alt="Foto 2">
+            <img src="DSC_0188.jpg" alt="Foto 3">
+        </div>
+    </section>
+    <section id="kontak">
+        <h1>Kontak</h1>
+        <p>Hubungi saya untuk informasi lebih lanjut tentang jasa freelance pernikahan saya.</p>
+        <ul>
+            <li>Alamat Email: <a href="mailto:aditiyasuryaputra813@gmail.com">aditiyasuryaputra813@gmail.com</a></li>
+            <li>Nomor Telepon: <a href="tlp:+6281313619268">081313619268</a></li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2022 Aditiya Surya Putra. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
